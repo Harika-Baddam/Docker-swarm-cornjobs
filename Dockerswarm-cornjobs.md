@@ -67,7 +67,7 @@ This solution enables fault-tolerant cron execution within Swarm using a minimal
 
 Once you paste and save it:
 ```bash
-git add Dockerswarm-cronjobs.md screenshots/
+git add Dockerswarm-cronjobs.md 
 git commit -m "Add Task13 cronjob documentation with screenshots"
 git push origin task13-docker-swarm-cronjobs
 
