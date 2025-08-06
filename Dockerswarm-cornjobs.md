@@ -72,6 +72,7 @@ git commit -m "Add Task13 cronjob documentation with screenshots"
 git push origin task13-docker-swarm-cronjobs
 
 
-Raise your PR, and you're golden. Want help writing the PR description next or refining the doc for a portfolio-ready polish? Let’s make it shine 🌟
+Research:
+- [Docker Swarm Cronjobs — Task13](cronjob-service/Dockerswarm-cronjobs.md)
 
 
