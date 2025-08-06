@@ -1,0 +1,1 @@
+* * * * * flock -n /tmp/cron.lock echo "Hello from cron" >> /output/cron.log 2>&1

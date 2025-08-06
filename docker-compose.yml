@@ -1,0 +1,10 @@
+# Remove this line if present:
+# version: "3"
+
+services:
+  cronjob:
+    image: baddamharika/cronjob-service:latest
+    command:  crond -f -L /output/cron.log
+    volumes:
+      - ./output:/output
+    restart: "no"
